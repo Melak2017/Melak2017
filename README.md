@@ -1,4 +1,4 @@
-<h1 align="center">Hello Folks, I'm Melaku <a> <img src="wave.gif"></h1>
+<h1 align="center">Hello Folks, I'm Melaku <a> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"></h1>
 <Br>
 <h1>About Me! </h1>
 
