@@ -1,7 +1,12 @@
+<h1 align="center">
+    Hello Folks, I'm Melaku
+    <img src="wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+   
+</h1>
 
-<h1 align="center">Hello Folks, I'm Melaku <a> <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  width="40px"/></h1>
-<Br>
-<h1>About Me! </h1>
 
 - 🎓 &nbsp;I have studied Bachelor's Degree in Electrical and Computer Engineering at Addis Ababa University.
 - 🔭 I’m currently open for an Intern or a new job opportunity,
