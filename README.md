@@ -20,7 +20,7 @@
 ---
 
 
-<a href="https://www.linkedin.com/in/melaku-a-mekonnen-" target="blank"><img align="center" src="https://img.shields.io/badge/Melaku Mekonnen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:melakuandarge100@gmail.com target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Melak2017" target="blank"><img align="center" src="https://img.shields.io/badge/Melak2017-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/melaku-a-mekonnen-" target="blank"><img align="center" src="https://img.shields.io/badge/Melaku Mekonnen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:melakuandarge100@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/Melak2017" target="blank"><img align="center" src="https://img.shields.io/badge/Melak2017-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 <Br>
 <h2>Tools I use! 🛠️</h2>
