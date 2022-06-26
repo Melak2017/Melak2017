@@ -1,4 +1,4 @@
-<h1 align="center">Hello Folks, I'm Melaku <a> <img src="wave.gif"  width="45px"/></h1>
+<h1 align="center">Hello Folks, I'm Melaku <a> <img src="wave.gif"  width="40px"/></h1>
 <Br>
 <h1>About Me! </h1>
 
