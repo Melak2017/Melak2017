@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">I'm <a href="https://github.com/Melak2017">Melaku A.Mekonnen<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
+<h1>About Me! 😎</h1>
 
-<!--
-**Melak2017/Melak2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓: &nbsp;I have studied Bachelor's Degree in Electrical and Computer Engineering at Addis Ababa University.
+- 🔭 I’m currently open for an Intern or a new job opportunity,
+- 🌱 I’m currently learning about Neural Networks and Deep Learning. 🧠💻🤖
+- 💬: Ask me about Data Science, Machine Learning, Data Engineering. 📊📈🤖🧠
+- 🏫: Constantly learning. I'm super interested in Open Source!
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I play Soccer! ⚽
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<Br>
