@@ -9,7 +9,7 @@
 
 - 🎓 &nbsp;I have studied Bachelor's Degree in Electrical and Computer Engineering at Addis Ababa University.
 - 🔭 I’m currently open for an Intern or a new job opportunity,
-- 📫 Reach me at : melakuandarge@gmail.com
+- 📫 Reach me at : melakuandarge100@gmail.com
 - 💬 Ask me about Data Science, Machine Learning, Data Engineering. 📊📈
 - 🏫 Constantly learning. I'm super interested in Open Source!
 - 😄 Pronouns: He/His
